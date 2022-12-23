@@ -16,7 +16,7 @@ A REST API for a Blogging Application. This API performs all the fundamental CRU
 * Hibernate
 * MySQL
 
-## More Details 📒
+## Features 📒
 
  * Exception Handling in my application
  * Using Model Mapper for mapping models
