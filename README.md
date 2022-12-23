@@ -6,7 +6,15 @@
 
 A REST API for a Blogging Application. This API performs all the fundamental CRUD operations of any Blogging Application with User Security, Validation at every step </h3>
 
-##
+## Tech Stack
+
+* Java
+* Spring Framework
+* Spring Boot
+* Spring Data JPA
+* Spring Security
+* Hibernate
+* MySQL
 
 ## More Details 📒
 
