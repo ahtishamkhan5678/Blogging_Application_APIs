@@ -18,32 +18,16 @@ A REST API for a Blogging Application. This API performs all the fundamental CRU
 
 ## More Details 📒
 
- * working on user api
-
- * Finishing user api update
  * Exception Handling in my application
  * Using Model Mapper for mapping models
  * validating data using bean validator full
- * Completing Category APIS
- * Testing and Validating APIS
- * Creating POST(Model) Api and Its Relations
- * Creating POST API
- * Get Post by category
- 
- * Updating and Deleting POST APIs
  * Implementing Pagination
- * Customizing POST response
  * Implement Sorting
  * Implement Searching
- 
- * Working on post image
- * Complete Comment api
- * Securing REST Apis
  * Spring Security Basic Auth
  * Spring Security JWT Auth
  * JWT implementing in project
  * Role Specific Access
- * Challanges while registering app
 
 ## Modules
 
