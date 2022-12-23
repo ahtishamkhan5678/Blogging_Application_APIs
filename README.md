@@ -13,7 +13,7 @@ A REST API for a Blogging Application. This API performs all the fundamental CRU
  * working on user api
 
  * Finishing user api update
- * Exception Handling in our application
+ * Exception Handling in my application
  * Using Model Mapper for mapping models
  * validating data using bean validator full
  * Completing Category APIS
