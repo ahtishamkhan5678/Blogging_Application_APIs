@@ -1,5 +1,5 @@
 # Blogging_Application_APIs
-<img  align="center"  src="https://i.pinimg.com/originals/d3/46/4a/d3464a4351fdf340ccb6bb37c281381a.gif" width="93%" height="420px" />
+<img  align="center"  src="https://i.pinimg.com/originals/d3/46/4a/d3464a4351fdf340ccb6bb37c281381a.gif" width="100%" height="420px" />
 
 ##
 <h3 align="center">
